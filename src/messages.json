@@ -1,0 +1,28 @@
+{
+    "en": {
+        "Ah": "Ah",
+        "Um": "Um",
+        "Er": "Er",
+        "Well": "Well",
+        "So": "So",
+        "Like": "Like",
+        "But": "But",
+        "Repeats": "Repeats",
+        "Other": "Other",
+        "Instructions": "During the meeting, use the following buttons to mark down the filler words and sounds used by each speaker and then reference it when giving your report.",
+        "Clear": "Clear"
+    },
+    "pt-BR": {
+        "Ah": "Ah",
+        "Um": "Um",
+        "Er": "Eh",
+        "Well": "Bem",
+        "So": "Então",
+        "Like": "Tipo",
+        "But": "Mas",
+        "Repeats": "Repetições",
+        "Other": "Outro",
+        "Instructions": "Durante a reunião, use os botões abaixo para marcar as palavras de preenchimento e sons usados por cada discursante e então use quando for fornecer o seu feedback.",
+        "Clear": "Limpar"
+    }
+}

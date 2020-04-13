@@ -3,10 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {IntlProvider} from 'react-intl'
+import messages from './messages.json'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <IntlProvider locale="pt-BR" messages={messages['pt-BR']}>
+      <App />
+    </IntlProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
